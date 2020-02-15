@@ -1,0 +1,9 @@
+# # this file created by Urmil
+# from django.http import HttpResponse
+
+# def about(request):
+#     return HttpResponse("This is about page")
+
+# def personalnav(request):
+#     return HttpResponse('''<center><h1>Personale Navigator</h1><br><a href="http://urmil-codes.000webhostapp.com">My Website </a><br><br>
+#     <a href="https://www.youtube.com/channel/UCuLGk0oGmabbOvkeDw8lhIw">YouTube</a></center>''')
